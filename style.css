@@ -132,7 +132,9 @@ hr{
     display: flex;
 }
 .contact p{
-    justify-content: right;
+align-items: center;
+    justify-content: center;
+    display: flex;
     
 }
 .img{
