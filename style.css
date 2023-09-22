@@ -132,8 +132,8 @@ hr{
     display: flex;
 }
 .contact p{
- 
-    margin-left: 550px;
+    justify-content: left;
+    
 }
 .img{
     justify-content: center;
