@@ -132,10 +132,8 @@ hr{
     display: flex;
 }
 .contact p{
-align-items: center;
     justify-content: center;
-    display: flex;
-    
+    margin-left: 550px;
 }
 .img{
     justify-content: center;
