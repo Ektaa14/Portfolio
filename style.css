@@ -8,13 +8,14 @@
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     padding-right: 15px; 
     padding-left: 15px;
-     background-color: #66BFBF;
+     
 }
 
 .navdiv{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    background-color: #66BFBF;
 }
 
 .logo a{
