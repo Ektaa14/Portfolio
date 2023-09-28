@@ -183,10 +183,6 @@ hr{
  
  /** Responsie **/
  @media(max-width:415px){
-    .back-video{
-        width: 105%;
-    height: 174vh;
-    }
     p{
         margin-left: 0rem;
         color: #0a0909;
